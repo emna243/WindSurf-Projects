@@ -8,13 +8,12 @@ Customized and improved parts of it
 
 Set up and configured the projects
 
-**Added documentation
+Added documentation
 
 **About These Projects:
 These are examples of what AI can create with guidance. They show how AI can help with coding, but still need human review and testing.
 
-**Disclosure
-Important !
+**Disclosure(Important !)
 These projects serve as:
 
 Examples of AI-assisted development capabilities
@@ -32,5 +31,5 @@ Various AI coding assistants that contributed to these projects
 
 The open-source community for inspiration and learning resources
 
-**Note:
+**Note
 These are learning projects showing AI-assisted development, not my original work
